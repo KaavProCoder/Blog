@@ -52,3 +52,7 @@ movie_head {
     border-bottom:1px solid white;
     padding:8px;
 }
+.img-modal{display:inline-block;}
+.p_modal{
+    margin-top:10px;
+}
